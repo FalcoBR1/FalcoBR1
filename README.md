@@ -3,7 +3,6 @@
 - 🔭 Estou trabalhando atualmente como balconista em um supermercado(SONDA)
 - 🌱 atualmente estou fazendo faculdade de ADS para poder estar entrando na area de TI
 - 🤔 Porque escolhi essa area: Eu amo a tecnologia e tudo oque gira em torno dela e como ela foi se desenvolvendo conforme o tempo foi passando ate os dias de hoje
-- 📫 contate-me no email: luizhfaranha25@gmail.com
 - 😄 pronouns: ele/dele
 - ☺️ oque eu quero ser na area de TI: Engenheiro de Software
 
