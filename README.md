@@ -7,8 +7,8 @@
 - ☺️ oque eu quero ser na area de TI: Engenheiro de Software
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FalcoBR1&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FalcoBR1&layout=compact&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FalcoBR1&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FalcoBR1&layout=compact&show_icons=true&theme=dark)
 
 
 ## 👨🏻‍💻Skills
