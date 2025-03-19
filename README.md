@@ -11,7 +11,7 @@
 
 ## 🤖 linguagens and technologies
 <div style="display: inline_block"><br>
- <img align="center" alt="luiz-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+ <img align="center" alt="luiz-Java" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
   <img align="right" alt="luiz-gif" height="200" width="300" src=https://github.com/user-attachments/assets/9f3326a0-0b5c-41e3-aae8-800ec0a0384b />
         
   </div>
