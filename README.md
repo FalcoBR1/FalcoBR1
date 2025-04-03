@@ -1,7 +1,7 @@
 ## Óla Pessoal👋🏼! eu sou o Luiz Henrique_(FalcoBR1)
 
 - 🔭 Estou trabalhando atualmente como balconista em um supermercado(SONDA)
-- 🌱 Atualmente estou fazendo faculdade de ADS para poder estar entrando na area de TI e poder cada vez mas aprimorar minhas habilidades de desenvolvedor
+- 🌱 Atualmente estou fazendo faculdade na FACENS estudando ADS para poder estar entrando na area de TI e poder cada vez mais aprimorar minhas habilidades de desenvolvedor
 - 🤔 Porque escolhi essa area: Eu amo a tecnologia e tudo oque gira em torno dela e como ela foi se desenvolvendo conforme o tempo foi passando ate os dias de hoje
 - 😄 Pronouns: ele/dele
 - ☺️ Oque eu quero ser na area de TI: Desenvolvedor de software
