@@ -1,8 +1,8 @@
 ## Óla Pessoal👋🏼! eu sou o Luiz Henrique_(FalcoBR1)
 
-- 🔭 Estou trabalhando atualmente como balconista em um supermercado(SONDA)
-- 🌱 Atualmente estou fazendo faculdade no instituto da FACENS cursando ADS para atuar na area de TI e poder cada vez mais aprimorar minhas habilidades de desenvolvedor
-- 🤔 Porque escolhi essa area: Eu amo a tecnologia e tudo oque gira em torno dela e como ela foi se desenvolvendo conforme o tempo foi passando ate os dias de hoje
+- 🔭 Estou trabalhando atualmente como balconista no supermercado Sonda.
+- 🌱 Atualmente estou fazendo faculdade no instituto da Facens cursando Analise e Desenvolvimento de Sistemas, para atuar na area de TI e poder cada vez mais aprimorar minhas habilidades de desenvolvedor.
+- 🤔 Porque escolhi essa area: Eu amo a tecnologia e tudo oque gira em torno dela e como ela foi se desenvolvendo conforme o tempo foi passando ate os dias de hoje.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FalcoBR1&show_icons=true&theme=midnight-purple)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FalcoBR1&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
